@@ -91,7 +91,7 @@ section h2{
 
 
 .skill-card{
-    background-color:white;
+    background-color:rgb(244, 243, 228);
     padding:20px;
     border: 2px solid black;
      border-radius: 6px;
@@ -110,7 +110,7 @@ section h2{
 }
 
 .project-card{
-    background: white;
+    background: rgb(244, 243, 228);
     padding: 20px;
     border: 2px solid black;
      border-radius: 6px;
@@ -128,6 +128,7 @@ form input{
     margin-bottom: 15px;
     border:2px solid black;
     border-radius: 6px;
+    background: rgb(244, 243, 228);
 
 }
 
